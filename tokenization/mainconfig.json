@@ -1,0 +1,39 @@
+{
+  "defaultChain": "wld",
+  "chains": {
+    "wld": {
+      "id": 480,
+      "name": "World Chain",
+      "symbol": "WLD",
+      "nativeCurrency": {
+        "name": "Ether",
+        "symbol": "ETH",
+        "decimals": 18
+      },
+      "rpcUrls": {
+        "default": "https://worldchain-mainnet.g.alchemy.com/public"
+      },
+      "blockExplorer": {
+        "name": "World Chain Explorer",
+        "url": "https://worldscan.org"
+      }
+    },
+    "u2u": {
+      "id": 2484,
+      "name": "U2U Solaris Mainnet",
+      "symbol": "U2U",
+      "nativeCurrency": {
+        "name": "U2U",
+        "symbol": "U2U",
+        "decimals": 18
+      },
+      "rpcUrls": {
+        "default": "https://rpc-mainnet.u2u.xyz"
+      },
+      "blockExplorer": {
+        "name": "U2U Explorer",
+        "url": "https://u2uscan.xyz"
+      }
+    }
+  }
+}

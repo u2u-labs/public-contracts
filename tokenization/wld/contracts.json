@@ -1,0 +1,15 @@
+{
+  "uniswapV3": {
+    "quoterV2": "0x961a7c7ac97942848a7be1f21326b819eb9b771a",
+    "swapRouter": "0x0e8cb61d7941306ae8a4a0b488447bbdd1c80b14"
+  },
+  "uniswapV2": {
+    "factory": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+  },
+  "universalRouter": "0x8ac7bee993bb44dab564ea4bc9ea67bf9eb5e743",
+  "description": {
+    "network": "World Chain (Chain ID: 480)",
+    "docs": "https://docs.world.org/world-chain",
+    "uniswapDocs": "https://docs.uniswap.org/contracts/v3/reference/deployments/WorldChain-deployments"
+  }
+}
