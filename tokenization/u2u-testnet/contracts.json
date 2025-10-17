@@ -1,0 +1,11 @@
+{
+  "uniswapV2": {
+    "factory": "0x8C27b3b76004688583846eA7b081C13e3931509E",
+    "router": "0x266d0279e4C3eCe1D89eFB4F56802FDa4929a29B"
+  },
+  "description": {
+    "network": "U2U Nebulas Testnet (Chain ID: 2484)",
+    "docs": "https://docs.u2u.xyz",
+    "note": "Update with actual U2U Uniswap V2 Router02 contract addresses"
+  }
+}

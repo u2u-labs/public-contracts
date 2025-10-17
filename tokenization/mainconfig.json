@@ -1,5 +1,5 @@
 {
-  "defaultChain": "u2u",
+  "defaultChain": "u2u-testnet",
   "chains": {
     "wld": {
       "id": 480,
@@ -19,7 +19,7 @@
       }
     },
     "u2u": {
-      "id": 2484,
+      "id": 39,
       "name": "U2U Solaris Mainnet",
       "symbol": "U2U",
       "nativeCurrency": {
@@ -33,6 +33,23 @@
       "blockExplorer": {
         "name": "U2U Explorer",
         "url": "https://u2uscan.xyz"
+      }
+    },
+    "u2u-testnet": {
+      "id": 2484,
+      "name": "U2U Nebulas Testnet",
+      "symbol": "U2U",
+      "nativeCurrency": {
+        "name": "U2U",
+        "symbol": "U2U",
+        "decimals": 18
+      },
+      "rpcUrls": {
+        "default": "https://rpc-nebulas-testnet.u2u.xyz"
+      },
+      "blockExplorer": {
+        "name": "U2U Testnet Explorer",
+        "url": "https://testnet.u2uscan.xyz/"
       }
     }
   }
