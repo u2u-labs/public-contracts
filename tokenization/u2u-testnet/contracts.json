@@ -1,7 +1,7 @@
 {
   "uniswapV2": {
-    "factory": "0x8C27b3b76004688583846eA7b081C13e3931509E",
-    "router": "0x266d0279e4C3eCe1D89eFB4F56802FDa4929a29B"
+    "factory": "0x5F545a6E8FBdCfeFa8d04644A35B32CDd18427e9",
+    "router": "0x96050D9ddaC8D8B34c98d1400c8043B34F0a889c"
   },
   "description": {
     "network": "U2U Nebulas Testnet (Chain ID: 2484)",
